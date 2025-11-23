@@ -62,7 +62,7 @@
 
   <!-- Programming Languages -->
   <h3 style="color:#667eea;">💻 Programming Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,java,python,cpp,c,bash,css,html,htmx,php,py,regex&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,c,bash,css,html,htmx,php,py,regex&theme=dark&perline=8" />
   <br><br>
 
   <!-- Frameworks / Libraries -->
